@@ -1,0 +1,15 @@
+{
+  "name": "atlhack2015",
+  "version": "4.2.1",
+  "description": "Messaging app for social justice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^11.0.0",
+    "twilio": "^2.5.1"
+  }
+}
